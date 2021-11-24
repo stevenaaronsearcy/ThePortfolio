@@ -1,0 +1,22 @@
+.myLogo {
+    height: auto;
+    max-width: 200px;
+}
+
+.navbar-nav {
+    margin-left: auto !important;
+    padding-left: 200px !important;
+}
+
+.nav-link {
+    margin-left: 60px;
+    color: #8d8741 !important;
+}
+
+.nav-link.active {
+    border-top: solid 3px #659dbd !important; 
+}
+
+.sticky-top {
+    background-color: white;
+}
